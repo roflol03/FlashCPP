@@ -8,3 +8,5 @@
 all: blinky
 blinky: blinky.cpp
 	g++ -Wall -o blinky blinky.cpp -lwiringPi
+
+hola bbsote
